@@ -1,9 +1,9 @@
 {
-  "name": "material-start",
+  "name": "eatsome",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS Material",
-  "repository": "https://github.com/angular/material-start",
+  "description": "Simple food choosing app",
+  "repository": "http://git.aleynikov.me/dennis/eatsome.git",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
